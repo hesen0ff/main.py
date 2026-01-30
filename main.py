@@ -1,3 +1,4 @@
+ADMIN_ID = 6185398910
 import os
 from telegram import Update, ChatMember
 from telegram.ext import (
